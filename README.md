@@ -2,7 +2,7 @@
 
 Project Overview
 --
-Airbnb is a popular online marketplace for people to rent out their properties or spare rooms to travelers. The platform offers various types of accommodations such as shared rooms, aparments and houses. 
+Airbnb is a popular online marketplace for people to rent out their properties or spare rooms to travelers. The platform offers various types of accommodations such as shared rooms, apartments and houses. 
 
 Our hypothetical client has announced that they would like to enter the Airbnb market in Sydney. They would like to invest in some properties as listings, however they have no knowledge of the current market, which types of properties to invest in and where. My goal is to provide the client with an overview of the current Airbnb market in 2023 and the potential rates that they can expect to be charging nightly. 
 
